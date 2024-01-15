@@ -1,4 +1,4 @@
-![logo](https://github.com/Rakeshkr2805/Rakeshkr2805/blob/main/github.jpg)
+![logo](https://github.com/Rakeshkr2805/Rakeshkr2805/blob/main/github%20pro.jpg)
 <h1 align="center">Hi 👋, I'm Rakesh kumar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding"width="400"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
